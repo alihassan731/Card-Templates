@@ -1,0 +1,23 @@
+.main-container {
+    background-color: rgb(243, 243, 243);
+}
+
+.card-title {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+
+.card {
+    width: 18rem;
+}
+
+.card-text {
+    font-weight: bold;
+    font-size: 15px;
+    letter-spacing: 3px;
+    color: gainsboro;
+}
+
+.icon-stl {
+    color: gainsboro;
+}
