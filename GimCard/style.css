@@ -1,0 +1,13 @@
+.main-container {
+    font-family: century-gothic, sans-serif;
+    background-color: rgb(243, 243, 243);
+}
+
+.card {
+    width: 19rem;
+}
+
+.card-text {
+    font-size: small;
+    font-weight: bold;
+}
