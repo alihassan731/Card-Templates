@@ -1,0 +1,11 @@
+.main-container{
+    max-width: 1000px;
+}
+.price-card{
+    width: 400px;
+}
+@media (max-width: 768px) {
+    .price-card{
+    width: 300px;
+    }
+}
